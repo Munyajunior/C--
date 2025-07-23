@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4820FD37-6093-4D09-988F-7D6811C529EA}|Arrays\\Arrays.vcxproj|C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\Arrays\\Arrays\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4820FD37-6093-4D09-988F-7D6811C529EA}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array.cpp",
+              "DocumentMoniker": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\Arrays\\Arrays\\array.cpp",
+              "RelativeDocumentMoniker": "Arrays\\array.cpp",
+              "ToolTip": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\Arrays\\Arrays\\array.cpp",
+              "RelativeToolTip": "Arrays\\array.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T10:23:54.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  array.cpp
+C:\Users\khalid\Desktop\Project\learn C++\Arrays\Arrays\array.cpp(32,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Arrays.vcxproj -> C:\Users\khalid\Desktop\Project\learn C++\Arrays\Arrays\x64\Debug\Arrays.exe
