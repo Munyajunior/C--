@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\VectorPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326085-1124-4B75-968F-6F7CCDD28030}|VectorPractice\\VectorPractice.vcxproj|C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\VectorPractice\\VectorPractice\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D326085-1124-4B75-968F-6F7CCDD28030}|VectorPractice\\VectorPractice.vcxproj|solutionrelative:VectorPractice\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\VectorPractice\\VectorPractice\\vector.cpp",
+              "RelativeDocumentMoniker": "VectorPractice\\vector.cpp",
+              "ToolTip": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\VectorPractice\\VectorPractice\\vector.cpp",
+              "RelativeToolTip": "VectorPractice\\vector.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T12:17:23.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
