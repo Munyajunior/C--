@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\TwiceNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9ECB10E-51C3-4ABA-8D92-954612E578D8}|TwiceNumber\\TwiceNumber.vcxproj|C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\TwiceNumber\\TwiceNumber\\twiceNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9ECB10E-51C3-4ABA-8D92-954612E578D8}|TwiceNumber\\TwiceNumber.vcxproj|solutionrelative:TwiceNumber\\twiceNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "twiceNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\TwiceNumber\\TwiceNumber\\twiceNumber.cpp",
+              "RelativeDocumentMoniker": "TwiceNumber\\twiceNumber.cpp",
+              "ToolTip": "C:\\Users\\khalid\\Desktop\\Project\\learn C\u002B\u002B\\TwiceNumber\\TwiceNumber\\twiceNumber.cpp",
+              "RelativeToolTip": "TwiceNumber\\twiceNumber.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T11:32:04.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
