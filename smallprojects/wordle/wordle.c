@@ -47,3 +47,58 @@ void check_word(const char *guess, const char *word, Result res[]) {
     }
 }
 
+char **readfile(char *filename, int max) {
+    char buf[8];
+    int i, size; 
+    FILE *file
+    char **ret[5];
+    file = fopen(filename, "r");
+    if (!file) {
+        perror("fopen");
+        return (char **)0;
+    }
+    size = max * 5;
+    ret = (char **)malloc(size * sizeof(char *));
+    if (!ret) {
+        fclose(file);
+        perror("malloc");
+
+        return (char **)0;
+    }
+    i=0;
+    memset(buf, 0, 8);
+    while (fgets(buf, 8, file))
+    {
+       size = strlen(buf);
+       if (size<1)
+       {
+        memset(buf, 0, 8);
+       continue;
+       }
+       
+       size--;
+       buf[size] = '\0';
+       if (size !=5)
+       {
+        memset(buf, 0, 8);
+        continue;
+       }
+       
+       ret[i][0] = buf[0];
+       ret[i][1] = buf[1];
+       ret[i][2] = buf[2];
+       ret[i][3] = buf[3];
+       ret[i][4] = buf[4];
+       //ret[i][] = '\0';
+       n++;
+       memset(buf, 0, 8);
+
+       if (max <= n)
+       {
+        break;
+       }
+       fclose(file);
+    }
+    
+    return 0;
+}
