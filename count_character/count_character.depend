@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748768785 source:c:\users\asus-pc\desktop\study\learn c\count_character\main.c
+	<stdio.h>
+	<stdlib.h>
+
