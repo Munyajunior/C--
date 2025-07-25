@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748769457 source:c:\users\asus-pc\desktop\study\learn c\line_count\main.c
+	<stdio.h>
+	<stdlib.h>
+
