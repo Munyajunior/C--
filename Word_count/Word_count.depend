@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751293809 source:c:\users\asus-pc\desktop\study\learn c\word_count\main.c
+	<stdio.h>
+	<stdlib.h>
+
