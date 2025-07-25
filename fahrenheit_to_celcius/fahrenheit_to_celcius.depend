@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751291762 source:c:\users\asus-pc\desktop\study\learn c\fahrenheit_to_celcius\main.c
+	<stdio.h>
+	<stdlib.h>
+
