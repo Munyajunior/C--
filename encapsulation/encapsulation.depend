@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1748939222 source:c:\users\asus-pc\desktop\study\learn c++\encapsulation\main.cpp
+	<iostream>
+	<string>
+	"House.h"
+
+1748939222 c:\users\asus-pc\desktop\study\learn c++\encapsulation\house.h
+	<string>
+
