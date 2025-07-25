@@ -1,2 +1,2 @@
 # C++
-contains files, learning and practicing c++
+contains files, learning and practicing c and c++
